@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rdogma
 - 👀 I’m interested in ...security.
 - 🌱 I’m currently learning ...about life.
-- 💞️ I’m looking to collaborate on ...everything because I'm cluekess.
+- 💞️ I’m looking to collaborate on ways to improve  ...everything because I'm....
 - 📫 How to reach me ...email
 
 <!---
